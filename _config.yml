@@ -13,3 +13,8 @@ domain_name: 'http://yourblog-domain.com'
 url:            'blog url'
 author:         'Your Name'
 author_url:     'your url'
+
+exclude:
+  - bin
+  - .git
+  - README.md
